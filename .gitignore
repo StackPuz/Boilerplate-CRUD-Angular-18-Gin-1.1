@@ -1,0 +1,5 @@
+/gin_api/tmp
+/gin_api/go.sum
+/angular/.angular
+/angular/node_modules
+/angular/package-lock.json
